@@ -1,4 +1,4 @@
-#Medical Data Visualizer
+# Medical Data Visualizer
 This project visualizes medical data from the medical_examination.csv dataset. It includes functions to clean the dataset, calculate Body Mass Index (BMI), normalize specific features, and create visual representations using cat plots and heatmaps.
 
 Dependencies
