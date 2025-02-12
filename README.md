@@ -1,3 +1,10 @@
-# Medical Data Visualizer
+#Medical Data Visualizer
+This project visualizes medical data from the medical_examination.csv dataset. It includes functions to clean the dataset, calculate Body Mass Index (BMI), normalize specific features, and create visual representations using cat plots and heatmaps.
 
-This is the boilerplate for the Medical Data Visualizer project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer
+Dependencies
+Ensure you have the following libraries installed:
+
+pandas
+seaborn
+matplotlib
+numpy
